@@ -1,4 +1,4 @@
-## WeatherAPI- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## WeatherAPI | [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Project 
 
 ### Summary 
 Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
